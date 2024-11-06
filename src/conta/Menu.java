@@ -86,8 +86,8 @@ public class Menu {
     public static void sobre() {
 	System.out.println("\n*********************************************************");
 	System.out.println("Projeto Desenvolvido por: Gabriel Jonatas");
-	System.out.println("Generation Brasil - generation@generation.org");
-	System.out.println("github.com/conteudoGeneration");
+	System.out.println("Generation Brasil - gabriels@generation.org");
+	System.out.println("github.com/GabrielJonatas");
 	System.out.println("*********************************************************");
    }
 
